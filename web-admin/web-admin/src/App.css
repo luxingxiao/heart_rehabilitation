@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Layout overrides */
+.ant-layout {
+  background: #f0f2f5;
+}
+
+.ant-layout-header {
+  background: #001529;
+}
+
+.ant-menu-inline .ant-menu-item a {
+  text-decoration: none;
+}
