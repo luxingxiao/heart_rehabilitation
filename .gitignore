@@ -53,6 +53,7 @@ Thumbs.db
 # Runtime data
 .runtime/
 .logs/
+.beads/
 
 # Claude Code
 .claude/commands/
