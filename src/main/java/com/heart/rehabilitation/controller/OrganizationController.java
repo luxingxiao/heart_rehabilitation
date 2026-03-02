@@ -3,6 +3,7 @@ package com.heart.rehabilitation.controller;
 import com.heart.rehabilitation.dto.OrganizationRequest;
 import com.heart.rehabilitation.dto.OrganizationResponse;
 import com.heart.rehabilitation.model.Organization;
+import com.heart.rehabilitation.model.OrganizationType;
 import com.heart.rehabilitation.service.OrganizationService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
